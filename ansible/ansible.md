@@ -37,3 +37,4 @@
 - Delegated tasks & local actions [[ansible.delegation]]
 - Rolling updates & serial execution patterns [[ansible.rolling_updates]]
 - Vault encryption internals & multiple vault IDs [[ansible.vault_advanced]]
+- 

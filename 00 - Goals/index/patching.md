@@ -1,5 +1,5 @@
 
 - Red Hat Satellite / Foreman [[satellite]]
-- CVE triage & remediation [[linux_cves]]
+- CVE triage & remediation [[linux.cves]]
 - Subscription management [[rhsm]]
 - 
