@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "2a1c889f3f156aa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0945c8cb72c38ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60734c7964273c7f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Goals/00 - BUBBAH GOALS!!!1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ce988bc5c3b4280f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Goals/01 - BUBBAH LINUX GOALS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3dc341cb4960cb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3da0c67ce19cc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b532d60a62ccf64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5442896bec22ac7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd9b0bfe73db8356",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "6efc2bf1f23e5382",
+    "type": "split",
+    "children": [
+      {
+        "id": "c459c7f0e40345eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea45ba874426da1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Goals/01 - BUBBAH LINUX GOALS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0c5adf856aa1b5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Goals/01 - BUBBAH LINUX GOALS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1f272ec95600c51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cba9ec0e7948a412",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Goals/01 - BUBBAH LINUX GOALS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b532d60a62ccf64",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "00 - Goals/01 - BUBBAH LINUX GOALS.md",
+    "zUnsorted/Regex Cheatsheet.md",
+    "00 - Goals/Untitled.canvas",
+    "linux/VIM Basics.md",
+    "linux/Subscription Manager.md",
+    "linux/Process Management.md",
+    "linux/Memory Management.md",
+    "linux/Kernel Management.md",
+    "linux/Kdump.md",
+    "linux/Hardware Troubleshooting.md",
+    "linux/Control Fan speed with IMPI.md",
+    "linux/Build kickstart ISO with Lorax.md",
+    "linux/index/linux.vulnscanning.md",
+    "linux/index/linux.systemd.md",
+    "linux/index/linux.syslog.md",
+    "linux/index/linux.storage.md",
+    "linux/index/linux.selinux.md",
+    "linux/index/linux.security.md",
+    "linux/index/linux.rhel_internals.md",
+    "linux/index/linux.rhcs.md",
+    "linux/index/linux.perftuning.md",
+    "linux/index/linux.pcs.md",
+    "linux/index/linux.packaging.md",
+    "linux/index/linux.oscap.md",
+    "linux/index/linux.ntp.md",
+    "linux/index/linux.niche.systemd.md",
+    "linux/index",
+    "satellite",
+    "linux",
+    "ansible",
+    "00 - Goals/index",
+    "zUnsorted",
+    "ZZ - Notes",
+    "00 - Goals",
+    "old",
+    "old/hardware_management"
+  ]
+}

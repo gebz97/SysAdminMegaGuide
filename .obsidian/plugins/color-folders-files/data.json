@@ -1,0 +1,47 @@
+{
+  "styles": {
+    "Notes/satellite": {
+      "backgroundColor": "#90d5d4",
+      "opacity": 1,
+      "textColor": "#000000",
+      "isBold": true
+    },
+    "Notes/linux": {
+      "backgroundColor": "#fe8543",
+      "textColor": "#000000",
+      "isBold": true
+    },
+    "Notes/ansible": {
+      "backgroundColor": "#ff8080",
+      "isBold": true,
+      "textColor": "#000000"
+    },
+    "ansible": {
+      "backgroundColor": "#fe8686",
+      "textColor": "#000000",
+      "isBold": true
+    },
+    "linux": {
+      "backgroundColor": "#feb434",
+      "textColor": "#000000",
+      "isBold": true
+    },
+    "satellite": {
+      "backgroundColor": "#c7fffb",
+      "textColor": "#000000",
+      "isBold": true
+    },
+    "zUnsorted": {
+      "backgroundColor": "#006b02",
+      "textColor": "#ffffff",
+      "isBold": true
+    },
+    "00 - Goals": {
+      "backgroundColor": "#a85dcb",
+      "textColor": "#000000",
+      "isBold": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
