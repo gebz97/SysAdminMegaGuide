@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:linux.",
+      "color": {
+        "a": 1,
+        "rgb": 12678411
+      }
+    },
+    {
+      "query": "file:satellite.",
+      "color": {
+        "a": 1,
+        "rgb": 9223922
+      }
+    },
+    {
+      "query": "file:ansible.",
+      "color": {
+        "a": 1,
+        "rgb": 16475493
+      }
+    },
+    {
+      "query": "file:rhel.",
+      "color": {
+        "a": 1,
+        "rgb": 12678411
+      }
+    },
+    {
+      "query": "bubba",
+      "color": {
+        "a": 1,
+        "rgb": 6750034
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.840104166666667,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.619791666666667,
+  "repelStrength": 11.6666666666667,
+  "linkStrength": 0.953125,
+  "linkDistance": 116,
+  "scale": 1.0000000000000022,
+  "close": true
+}
